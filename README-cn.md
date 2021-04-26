@@ -1,4 +1,8 @@
 # z-probe - Kossel delta z校正调平传感器
+
+## 调平测试视频
+- [![piezo z-probe in Bilibili](https://i1.hdslb.com/bfs/archive/8a77629684e25f1da9ebaa3e01a3ce4929708cc6.jpg)](https://www.bilibili.com/video/BV1Wf4y1p7ZC)
+
 ## 电路
 ![电路](./Schematics/Schematic_z%20probe%20piezo-LM358.png)
 ## 安装
