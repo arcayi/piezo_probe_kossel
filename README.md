@@ -2,7 +2,7 @@
 # piezo_probe_kossel
 Piezo z probe for kossel 3d printer
 ## Testing Video
-- [![piezo z-probe in Bilibili](https://i1.hdslb.com/bfs/archive/8a77629684e25f1da9ebaa3e01a3ce4929708cc6.jpg)](https://www.bilibili.com/video/BV1Wf4y1p7ZC)
+- [![piezo z-probe in Youtube](http://img.youtube.com/vi/lyBaAa0_jc8/0.jpg)](https://www.youtube.com/watch?v=lyBaAa0_jc8)
 
 # Z-probe - sensor for Kossel delta calibration and level mesh
 ## Schematics
